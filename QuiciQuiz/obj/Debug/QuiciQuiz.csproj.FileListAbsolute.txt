@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\bin\Debug\QuiciQuiz.exe.config
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\bin\Debug\QuiciQuiz.exe
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\bin\Debug\QuiciQuiz.pdb
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.FormQuiz.resources
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.exe
+C:\Users\lenovo\Desktop\Visual Studio 2015\Projects\QuiciQuiz\QuiciQuiz\obj\Debug\QuiciQuiz.pdb
